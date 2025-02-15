@@ -52,4 +52,4 @@ def upload():
 # print(" * ngrok tunnel \"{}\" -> \"http://127.0.0.1:6000\"".format(public_url))
 
 if __name__ == '__main__':
-    app.run(port = 5000)
+    app.run(port = 7000)
